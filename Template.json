@@ -1,0 +1,12 @@
+{
+"minimumVersion": 1, 
+"packages": [
+{
+"name": "TPPI2 Package", 
+"title": "TPPI2", 
+"version": "MODPACKVERSION", 
+"location": "https://www.lolnet.co.nz/modpack/tppi2.json", 
+"priority": 1
+}
+]
+}

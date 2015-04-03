@@ -1,0 +1,14 @@
+{
+  "name": "TPPI2 Package",
+  "title": "TPPI2",
+  "gameVersion": "1.7.10",
+  "launch": {
+    "flags": []
+  },
+  "userFiles": {
+    "include": [
+      "servers.dat",
+      "options.txt"
+    ]
+  }
+}
